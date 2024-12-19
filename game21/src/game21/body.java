@@ -8,7 +8,7 @@ public class body {
 		
 		Scanner in=new Scanner(System.in);
 		
-		Users users=new Users("Woman","Ömer","darcankun@gmail.com",18,"tahaa123",50000);
+		Users users=new Users("Male","Ömer","example@mail.com",18,"12345678",50000);
 		
 		Roulette roulette=new Roulette(0,50000);
 		
